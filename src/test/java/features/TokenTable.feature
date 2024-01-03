@@ -1,4 +1,3 @@
-@api
 Feature: Generating token against different scenarios
 
   Scenario Outline: Generating a valid token from /api/token

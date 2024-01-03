@@ -1,4 +1,3 @@
-
 Feature: Generating Invalid Token
 
   Scenario: Login to API using wrongusername /api/token

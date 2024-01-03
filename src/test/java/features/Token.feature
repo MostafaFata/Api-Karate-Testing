@@ -1,4 +1,3 @@
-@token
 Feature: Generate Token
 
   Scenario: Generating a valid token from /api/token

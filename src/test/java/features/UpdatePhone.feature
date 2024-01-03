@@ -1,4 +1,3 @@
-@update
 Feature: Update phone number
 
   Scenario: update phone number via /api/accounts/update-account-phone

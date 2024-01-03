@@ -1,4 +1,3 @@
-@today
 Feature: Add account
 
   Scenario: adding a new account /api/accounts/add-primary-account

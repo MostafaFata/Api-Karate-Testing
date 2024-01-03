@@ -1,4 +1,3 @@
-
 Feature: Get all accounts
 
   Background: Setup

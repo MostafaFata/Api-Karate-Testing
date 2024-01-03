@@ -1,4 +1,3 @@
-@verify
 Feature: Verify Token
 
   Scenario: verifying the token is valid via /api/token/verify
