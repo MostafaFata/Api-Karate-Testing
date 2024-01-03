@@ -7,7 +7,7 @@ public class Runner {
     @Karate.Test
     Karate run(){
         return Karate.run("src/test/java/features")
-                .tags("@update")
+                //.tags("")
                 .karateEnv("qa");
     }
 
