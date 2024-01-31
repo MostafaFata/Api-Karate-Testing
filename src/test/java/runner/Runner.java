@@ -8,8 +8,8 @@ public class Runner {
     Karate run(){
         return Karate.run("src/test/java/features")
                 //.tags("")
-                .karateEnv("qa")
-                .outputCucumberJson(true);
+                .karateEnv("qa");
+               // .outputCucumberJson(true);
     }
 
 
